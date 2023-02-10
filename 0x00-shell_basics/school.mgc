@@ -1,3 +1,5 @@
+file:
+
 file -C -m schoo.mgc
 0 string SCHOOL "School data"
 !:mime School
